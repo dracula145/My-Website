@@ -1,0 +1,114 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #e0f7fa;
+    color: #494040;
+}
+.top-container{
+    background-color: #AEFEFF;
+}
+h1{
+    font-family: 'Licorice', cursive;
+    font-size: 5rem;
+    color: #158181;
+    line-height: 2;
+}
+h2{
+    margin: 10px 5px 10px 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #158181;
+}
+h3{
+    color: #11999E;
+    margin: 30px;
+}
+p{
+    margin: 10px 5px 10px 5px;
+}
+.heading{
+    margin-top: 20px;
+}
+.middle-container{
+    margin-top: 10px;
+}
+.bottom-container{
+    background-color: #06c7ca;
+    padding: 20px 0px 30px;
+}
+.bottom-cloud{
+    position: absolute;
+    margin-left: -100px;
+}
+hr{
+    border: 5px dotted #999999;
+    border-style: none none dotted;
+    width: 5%;
+    margin:  70px auto 70px auto;
+
+}
+a{
+    color: #bdfdff;
+    text-decoration: none;
+    margin: 0px 20px 0px 20px;
+    font-size: larger;
+}
+a:hover{
+    color: #818383;
+}
+.top-cloud{
+    margin-left: 600px;
+    margin-top: 70px;
+}
+.profile img{
+    height: 200px;
+    width: 200px;
+    margin: 10px 10px;
+}
+.coding{
+    height: 180px;
+    font-weight: 250px;
+    float: left;
+    margin-right: 10%;
+}
+.music{
+    height: 200px;
+    font-weight: 250px;
+    margin-bottom: -10px;
+    margin-top: -10px;
+    float: right;
+    margin-left: 8%;
+}
+.skill-row{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+.contact-description{
+    margin-bottom: 50px;
+}
+.btn{
+    border-radius: 8px;
+    color: white;
+    font-style: bold;
+    padding: 10px;
+    background-image : linear-gradient(to bottom, #11cdd4, #11999e);
+    text-decoration: none;
+}
+.btn:hover{
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+}
+.copyright{
+    margin-top: 30px;
+    margin-bottom: -20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: rgb(0, 131, 136);
+}
